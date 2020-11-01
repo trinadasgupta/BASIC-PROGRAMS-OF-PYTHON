@@ -1,6 +1,6 @@
 # BASIC-PROGRAMS-OF-PYTHON
 
-.Factorial of a number
+1.Factorial of a number
 
 2.Area of a circle
 
