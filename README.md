@@ -1,5 +1,8 @@
 # BASIC-PROGRAMS-OF-PYTHON
 
+Basic Programming concepts to brush up your coding skills.
+
+
 1.Factorial of a number
 
 2.Area of a circle
